@@ -1,6 +1,7 @@
 /* Alejandra Avilés - 24722
 *  Laboratorio 4.2
 *  Programación de Plataformas Móviles */
+
 package com.example.laboratorio5
 
 import android.os.Bundle
